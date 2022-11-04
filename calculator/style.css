@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin: auto;
+    text-align: center;
+    padding: 15px;
+}
+.formstyle {
+    margin: auto;
+    text-align: center;
+}
+input.textview {
+    padding: 12px;
+    width: 200px;
+    margin-bottom: 7px;
+}
+table {
+    margin: auto;
+    text-align: center;
+    width: 200px;
+}
+input.btn {
+    margin: 4px;
+    padding: 18px;
+    border-radius: 12%;
+}
